@@ -12,6 +12,7 @@ public class EjControlVersiones {
     public static void main(String[] args) {
         System.out.println("asdjad");
         System.out.println("Miercoles");
+        System.out.println("primera etiqueta");
     }
     
 }
