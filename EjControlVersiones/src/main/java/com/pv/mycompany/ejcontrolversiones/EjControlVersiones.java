@@ -13,6 +13,7 @@ public class EjControlVersiones {
         System.out.println("asdjad");
         System.out.println("Miercoles");
         System.out.println("primera etiqueta");
+        System.out.println("equipo remoto");
     }
     
 }
